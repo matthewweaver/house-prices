@@ -1,5 +1,13 @@
 # house-prices
 
+**[Example Report](https://docs.google.com/spreadsheets/d/1s1gbR3nAoLc4Oa2xlKJjPuR4ZIbawRuVL8F4juD3NgE/edit?usp=sharing):**
+<br>
+
+[<img width="1500" src="https://github.com/user-attachments/assets/560f8f6f-331b-4991-98b4-37ab38e6e7db">
+](https://docs.google.com/spreadsheets/d/1s1gbR3nAoLc4Oa2xlKJjPuR4ZIbawRuVL8F4juD3NgE/edit?usp=sharing)
+
+<br>
+
 **Purpose:**
 To help find a house to buy, good value and within set parameters. Way to incorporate all available data in a systematic way. Currently you search through thousands of properties manually googling commute times and assessing their value. Hoping to be able to predict house value/potential using machine learning models.
 
